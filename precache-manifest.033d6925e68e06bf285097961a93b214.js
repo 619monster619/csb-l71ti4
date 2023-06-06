@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "844e294a75e5b6e273b223e97ce1d3de",
+    "revision": "ccf831ce91572f360ca9140169abc3d1",
     "url": "https://619monster619.github.io/csb-l71ti4/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://619monster619.github.io/csb-l71ti4/static/css/2.b2ea0959.chunk.css"
   },
   {
-    "revision": "6d1e653f6b75f5557c02",
+    "revision": "71c6e1742a4635641cba",
     "url": "https://619monster619.github.io/csb-l71ti4/static/css/main.9b1431d8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://619monster619.github.io/csb-l71ti4/static/js/2.a496073c.chunk.js"
   },
   {
-    "revision": "6d1e653f6b75f5557c02",
-    "url": "https://619monster619.github.io/csb-l71ti4/static/js/main.fcb2ab0e.chunk.js"
+    "revision": "71c6e1742a4635641cba",
+    "url": "https://619monster619.github.io/csb-l71ti4/static/js/main.446f68a1.chunk.js"
   },
   {
     "revision": "955eda61d6c28db7ea50",
